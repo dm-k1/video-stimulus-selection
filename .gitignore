@@ -1,0 +1,9 @@
+.DS_Store
+.ipynb_checkpoints/
+__pycache__/
+*.tmp.mp4
+*.muted.mp4
+
+# Footage: rights remain with the broadcasters
+videos/*.mp4
+compilations/*.mp4

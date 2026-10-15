@@ -1,0 +1,11 @@
+﻿candidate,video_ids,seconds,content_types,sources,score,strength,coverage,gap
+1,nieuwsuur_denhaag_05;sky_mediterranean_05;france24_lesbos_03;france24_nl_03;nos_kroatie_02;nosop3_opvang_02;ind_keten_03;nosop3_grenzen_02;nosop3_grenzen_03,64.5,13,8,5.58,0.715,0.866,0.783
+2,nieuwsuur_denhaag_01;nieuwsuur_denhaag_03;democracynow_journey_01;democracynow_journey_03;sky_mediterranean_04;france24_lesbos_03;nosop3_opvang_02;ind_keten_04;nosop3_grenzen_02;nosop3_grenzen_03;nosop3_grenzen_04,64.2,13,7,4.89,0.72,0.878,0.797
+3,nieuwsuur_denhaag_05;democracynow_journey_01;sky_mediterranean_05;france24_lesbos_03;france24_nl_03;nosop3_opvang_02;nosop3_opvang_05;ind_keten_04;nosop3_grenzen_03,64.0,13,8,4.42,0.716,0.852,0.786
+4,nieuwsuur_denhaag_05;democracynow_journey_01;france24_lesbos_03;france24_nl_01;france24_nl_03;nos_kroatie_02;ind_keten_04;nosop3_grenzen_01;nosop3_grenzen_02;nosop3_grenzen_04,64.9,13,7,4.28,0.709,0.87,0.793
+5,nieuwsuur_denhaag_01;sky_mediterranean_04;france24_lesbos_03;france24_nl_03;nos_kroatie_02;nosop3_opvang_02;nosop3_opvang_05;ind_keten_03;nosop3_grenzen_03;nosop3_grenzen_04,64.4,13,8,4.05,0.732,0.832,0.785
+6,nieuwsuur_denhaag_03;nieuwsuur_denhaag_05;democracynow_journey_01;sky_mediterranean_04;france24_lesbos_03;nosop3_opvang_02;nosop3_opvang_05;ind_keten_04;nosop3_grenzen_01;nosop3_grenzen_05,64.8,13,7,3.85,0.713,0.872,0.799
+7,nieuwsuur_denhaag_05;democracynow_journey_01;sky_mediterranean_04;france24_lesbos_03;france24_nl_02;nos_kroatie_02;nosop3_opvang_05;ind_keten_04;nosop3_grenzen_03;nosop3_grenzen_04,64.9,13,9,3.81,0.725,0.858,0.797
+8,nieuwsuur_denhaag_01;democracynow_journey_01;sky_mediterranean_05;france24_lesbos_03;france24_nl_03;nosop3_opvang_02;ind_keten_04;nosop3_grenzen_01;nosop3_grenzen_02,64.5,13,8,3.72,0.715,0.848,0.789
+9,nieuwsuur_denhaag_05;sky_mediterranean_05;france24_lesbos_03;france24_nl_03;nos_kroatie_02;nosop3_opvang_02;ind_keten_01;ind_keten_04;nosop3_grenzen_01,64.7,13,8,3.37,0.702,0.85,0.787
+10,nieuwsuur_denhaag_03;sky_mediterranean_02;sky_mediterranean_04;france24_lesbos_03;nos_kroatie_02;nosop3_opvang_02;nosop3_opvang_05;ind_keten_04;nosop3_grenzen_04,64.0,13,7,3.21,0.74,0.83,0.794

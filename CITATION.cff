@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this procedure or its code, please cite it as below."
+title: "video-stimulus-selection: selecting a short video compilation that covers every kind of content in a set of clips"
+type: software
+authors:
+  - family-names: Kloppenburg
+    given-names: D.M.
+    affiliation: University of Amsterdam
+repository-code: "https://github.com/dm-k1/video-stimulus-selection"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-16"
+keywords:
+  - stimulus selection
+  - video stimuli
+  - content analysis
+  - parallel analysis
+  - news footage

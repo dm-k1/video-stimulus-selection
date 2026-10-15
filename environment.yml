@@ -1,0 +1,20 @@
+name: migration-stimuli
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - pandas
+  - pillow
+  - matplotlib
+  - ffmpeg
+  - ipykernel
+  - nbformat
+  - pip
+  - pip:
+      - google-genai
+      - pydantic
+      - sentence-transformers
+      - scikit-learn
+      - factor_analyzer
